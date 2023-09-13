@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Wisata Magelang</string>
+    <string name="place_name">Nama Tempat Wisata</string>
+    <string name="description">Buat anda yang kali ini liburan bareng keluarga, boleh banget melipir ke Hutan Pinus Kragilan. Serunya keliling hutan pinus makin lengkap dengan semua fasilitasnya.</string>
+    <string name="profile">Profile</string>
+    <string name="nama_user">Luqman Adi Wibowo</string>
+    <string name="email">2108096071@student.walisongo.ac.id</string>
+    <string-array name="data_name_wisata">
+        <item>Negeri Sayur – Sukomakmur</item>
+        <item>Nepal Van Java</item>
+        <item>Silancur Highland</item>
+        <item>Ketep Pass</item>
+        <item>Negeri Kahyangan</item>
+        <item>Awang-Awang Telomoyo</item>
+        <item>Gunung Andong</item>
+        <item>Hutan Pinus Kragilan</item>
+        <item>Air Terjun Kedung Kayang</item>
+        <item>Mangli Sky View</item>
+    </string-array>
+
+    <string-array name="data_description_wisata">
+        <item>Yang pertama Negeri Sayur Sukomakmur akan memanjakan matamu dengan wisata alam dan sawah teraseringnya. Wisata baru Magelang ini memang jadi sentra penghasil sayur yang melimpah dan berkualitas. \nDi sini kamu bisa belajar banyak hal tentang bercocok tanam dari petani lokal, foto di spot instagramable, hingga mengunjungi beberapa wisata di dekatnya seperti Nepal Van Java.</item>
+        <item>Tempat wisata di Magelang ini merupakan sebuah dusun wisata yang disebut Dusun Butuh. Selain memiliki spot foto keren, kamu juga bisa melakukan banyak aktivitas seru, seperti memetik sayuran, ikut tur kampung, hingga menginap lho!</item>
+        <item>Jika kamu berada di kawasan Kaliangkrik, mampir ke Silancur Highland. Tempat yang berada di ketinggian sekitar 1.300 mdpl ini menawarkan pemandangan Gunung Sumbing di sisi barat, dan deretan Gunung Merapi, sampai Ungaran di sisi sebaliknya. \nSelain memburu golden sunrise terbaik, fasilitas glamping dan deretan kafenya juga bikin betah! Gimana, langsung tertarik nih buat liburan bareng kesayangan di sini.</item>
+        <item>Beralih ke Ketep Pass, tempat melihat keindahan Gunung Merbabu dan Merapi dari atas bukit nih. Selain berfoto dan menikmati alam dari atas ketinggian, kamu juga puas banget dengan ragam kuliner di sini. \nApalagi ada wisata petik strawberry yang bisa jadi salah satu aktivitas menarik untuk kamu coba bareng keluarga. Wah, tentu momen liburan jadi makin berkesan deh!</item>
+        <item>Wisata di Magelang yang lagi hits satu ini memang nggak boleh kamu lewatkan, yakni Negeri Kahyangan yang lebih dikenal dengan nama Tol Kahyangan. \nSpot ikoniknya berupa kastil besar dengan jalan yang tampak menembus awan ketika cuaca berkabut.</item>
+        <item>Gardu pandang di tengah Gunung Telomoyo juga nggak kalah keren. Keindahan Gunung Telomoyo ini makin sempurna dengan beragam fasilitas wisatanya. Kamu bisa camping, berfoto di beragam spot instagramable hingga menikmati kuliner di gardu pandangnya. Nggak salah sih kalau Awang-Awang Telomoyo jadi tempat makan di Magelang yang punya view menarik untuk kamu datangi bareng kesayangan.</item>
+        <item>Berikutnya ada wisata alam dan pendakian yang rasanya bisa memuaskan jiwa petualanganmu. Salah satu gunung yang bisa kamu daki di Magelang adalah Gunung Andong. Gunung dengan ketinggian 1.700an mdpl ini juga punya golden sunrise cantik untuk kamu saksikan.</item>
+        <item>Buat anda yang kali ini liburan bareng keluarga, boleh banget melipir ke Hutan Pinus Kragilan. Serunya keliling hutan pinus makin lengkap dengan semua fasilitasnya. Terdapat area outbound, tempat makan, gazebo, hingga penginapan, lho!</item>
+        <item>Selanjutnya ada wisata alam di Magelang yang terkenal akan keindahannya, yakni Air Terjun Kedung Kayang. View-nya nggak tanggung-tanggung. Dari gardu pandangnya, kamu dapat menikmati keindahan Gunung Merapi beserta lembahnya, Anda juga bisa turun menyusuri sungai di tengah hutan yang tentunya bakal jadi momen baru yang bisa kamu alami.</item>
+        <item>Mangli Sky View, wisata alam Magelang ini juga terkenal dengan indahnya golden sunrise dan sunsetnya nih! Untuk menikmatinya, kamu bisa camping dan bermalam di sana. Bahkan, di Mangli Sky View Ini kamu bisa menikmati beberapa gunung di Magelang dengan mudah, lho!</item>
+    </string-array>
+
+    <integer-array name="data_photo_wisata">
+        <item>@drawable/negeri_sayur_sukomakmur</item>
+        <item>@drawable/nepal_van_java</item>
+        <item>@drawable/silancur_highland</item>
+        <item>@drawable/ketep_pass</item>
+        <item>@drawable/negeri_kayangan</item>
+        <item>@drawable/awang_awang_telomoyo</item>
+        <item>@drawable/gunung_andong</item>
+        <item>@drawable/hutan_pinus_kragilan</item>
+        <item>@drawable/air_terjun_kedung_kayang</item>
+        <item>@drawable/mangli_sky_view</item>
+    </integer-array>
+
+    <string-array name="harga_tiket">
+        <item>Rp8.000/orang</item>
+        <item>Rp8.000/orang</item>
+        <item>Rp10.000/orang</item>
+        <item>Rp15.000/orang</item>
+        <item>Rp10.000/orang</item>
+        <item>Rp15.000/orang</item>
+        <item>Rp20.000/orang</item>
+        <item>Rp10.000/orang</item>
+        <item>Rp4.000/orang</item>
+        <item>Rp10.000/orang</item>
+    </string-array>
+
+    <string-array name="jam_buka">
+        <item>Setiap Hari, Pukul 07.00-17.00 WIB</item>
+        <item>Setiap Hari, Pukul 07.00-17.00 WIB</item>
+        <item>Setiap Hari, Pukul 05.00-23.00 WIB</item>
+        <item>Setiap Hari, Pukul 09.00-16.30 WIB</item>
+        <item>Setiap Hari, Pukul 09.00-16.30 WIB</item>
+        <item>Setiap Hari, Pukul 07.00-18.30 WIB</item>
+        <item>Setiap Hari, Pukul 07.00-17.00 WIB</item>
+        <item>Setiap Hari, Pukul 07.00-17.00 WIB</item>
+        <item>Setiap Hari, Pukul 07.00-17.00 WIB</item>
+        <item>Setiap Hari, 24 jam</item>
+    </string-array>
+
+    <string-array name="alamat_wisata">
+        <item>Nampan, Sukomakmur, Kec. Kajoran, Kabupaten Magelang, Jawa Tengah</item>
+        <item>Dusun, Butuh, Temanggung, Kec. Kaliangkrik, Kabupaten Magelang, Jawa Tengah 56153</item>
+        <item>Dadapan, Mangli, Kec. Kaliangkrik, Kabupaten Magelang, Jawa Tengah 56153</item>
+        <item>Surodadi, Wonolelo, Kec. Sawangan, Kabupaten Magelang, Jawa Tengah 56411</item>
+        <item>Surodadi, Wonolelo, Sawangan, Magelang Regency, Central Java 56411</item>
+        <item>Hutan, Keditan, Kec. Ngablak, Kabupaten Magelang, Jawa Tengah 56194</item>
+        <item>Area Hutan/Kebun, Girirejo, Ngablak, Magelang, Jawa Tengah</item>
+        <item>Area Kebun/Hutan, Pogalan, Kec. Pakis, Kabupaten Magelang, Jawa Tengah 56193</item>
+        <item>Desa Wonolelo kedung kayang, Nagrong, Wonolelo, Kec. Sawangan, Kabupaten Magelang, Jawa Tengah 56411</item>
+        <item>Area Hutan/Sawah, Mangli, Kec. Kaliangkrik, Kabupaten Magelang, Jawa Tengah 56153</item>
+    </string-array>
+
+    <string-array name="alamat_google">
+        <item>https://goo.gl/maps/FDUm3zpguwq2U5WV8</item>
+        <item>https://goo.gl/maps/EG1w93NcoEBX6EXFA</item>
+        <item>https://goo.gl/maps/7itfR9i2UE5u65bX9</item>
+        <item>https://goo.gl/maps/nPWr6utrHM3sYSZz5</item>
+        <item>https://goo.gl/maps/XTTRbrnFyPjrzkop9</item>
+        <item>https://goo.gl/maps/7wpYcm8HiPzoTH4g8</item>
+        <item>https://goo.gl/maps/V4us97crvAmCWzjq6</item>
+        <item>https://goo.gl/maps/nnAAgeMjWLFmTsee7</item>
+        <item>https://goo.gl/maps/j4n2WMEk3bbyhFfV8</item>
+        <item>https://goo.gl/maps/p4hs5BawBPPgNc5UA</item>
+    </string-array>
+
+    <string name="harga_tiket">Harga Tiket</string>
+    <string name="detail_harga_tiket">Rp 8000/orang</string>
+    <string name="jam_buka">Jam &amp; Hari Buka</string>
+    <string name="detail_jam_buka">Setiap Hari,\nPukul 07.00-17.00 WIB</string>
+    <string name="alamat">Alamat Wisata</string>
+    <string name="detail_alamat">Naden, Sukomakmur, Kec. Kajoran, Kabupaten Magelang, Jawa Tengah</string>
+    <string name="button">Buka Maps</string>
+
+
+</resources>
