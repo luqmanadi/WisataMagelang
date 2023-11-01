@@ -13,7 +13,7 @@
     <style name="Theme.WisataMagelang" parent="Base.Theme.WisataMagelang" />
 
     <style name="Theme.App.SplashScreenWisataMagelang" parent="Theme.SplashScreen" >
-        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenBackground">@color/black</item>
         <item name="windowSplashScreenAnimatedIcon">@drawable/logo_app2</item>
         <item name="postSplashScreenTheme">@style/Base.Theme.WisataMagelang</item>
     </style>
